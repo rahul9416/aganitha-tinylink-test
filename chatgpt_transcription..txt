@@ -179,3 +179,8 @@ filePath: e:\aganitha-tinylink-test\package.json
   - Keep dependencies minimal; avoid heavy analytics in redirect path.
 
 If you want, I can proceed to codify the plan into tracked tasks and start implementing the data model and the first API endpoint in this repo.
+
+
+
+### Setting up postgres sql
+https://chatgpt.com/share/6922b775-f630-8002-bad7-70317ab603d8
